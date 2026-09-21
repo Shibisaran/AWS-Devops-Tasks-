@@ -232,7 +232,7 @@ This repository will continue to grow as I work through additional AWS and DevOp
 - Terraform
 - Linux administration
 - Monitoring and logging
-- Security and least-privilege architecture
+- Security and least-privilege architecture.         
 
 ---
 
